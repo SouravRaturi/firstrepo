@@ -4,4 +4,6 @@
 int main()
 {
 cout<<"hello world\n";
+cout<<"new line added\n";
+return 0;
 }
