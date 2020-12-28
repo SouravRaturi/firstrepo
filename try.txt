@@ -3,7 +3,7 @@
 
 int main()
 {
-cout<<"hello world\n";
-cout<<"new line added\n";
+std::cout<<"hello world\n";
+std::cout<<"new line added\n";
 return 0;
 }
